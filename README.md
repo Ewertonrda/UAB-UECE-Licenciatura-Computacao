@@ -1,2 +1,0 @@
-# firstpagina
-primeiro desenvolvimento
